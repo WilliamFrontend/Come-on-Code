@@ -1,0 +1,80 @@
+.header{
+    background-color: rgb(64, 63, 63);
+    margin: auto;
+    width: 400px;
+    margin-bottom: 20px;
+    border: 20px;
+    justify-content: space-around;
+    border-radius: 15px;
+}
+
+.profile{
+    text-align: center;
+
+}
+
+img{
+    position: center;
+    border-radius: 90px;
+    font-size: 10px;
+    display: flex;
+    justify-content: space-around;
+    right: 20px;
+    left: 20px;
+
+}
+body{
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    
+}
+
+h4{
+    color: rgb(255, 255, 255);
+    font-size: 180%;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+} 
+
+h5{
+    color: greenyellow;
+    font-size: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+small{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+  
+a:link{
+    background-color: rgb(23, 22, 22);
+    margin: 20px 20px 20px 20px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    padding: 5%;
+    text-align: center;
+    text-decoration: aquamarine;
+    display: flex;
+    justify-content: space-around;
+}
+a:visited{
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: greenyellow;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+a:active{
+    color: greenyellow;
+    background-color: transparent;
+    text-decoration: none;
+}
